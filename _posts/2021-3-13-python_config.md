@@ -1,4 +1,3 @@
-```
 ---
 layout: post
 title: "vscode中python配置"
@@ -7,7 +6,6 @@ tags: [geek]
 comments: true
 author: yikun
 ---
-```
 
 问题：在安装好python插件及配置好json文件后，发现一些包如opencv、numpy在vscode按F5运行时无法导入。错误及提示如下：
 
