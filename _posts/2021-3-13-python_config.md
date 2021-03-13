@@ -1,3 +1,10 @@
+layout: post
+title: "vscode中python配置"
+date:   2021-3-13
+tags: [geek]
+comments: true
+author: yikun
+
 问题：在安装好python插件及配置好json文件后，发现一些包如opencv、numpy在vscode按F5运行时无法导入。错误及提示如下：
 
 ![image-20210305145217795](C:\Users\86135\AppData\Roaming\Typora\typora-user-images\image-20210305145217795.png)
